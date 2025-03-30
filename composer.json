@@ -1,0 +1,13 @@
+{
+  "name": "wizardcompass/starter",
+  "description": "Placeholder package to reserve the wizardcompass vendor namespace on Packagist.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leonardo Poletto",
+      "email": "hello@leopoletto.com"
+    }
+  ],
+  "require": {}
+}
